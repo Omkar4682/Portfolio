@@ -1,7 +1,6 @@
 # Hi, I'm Omkar Date 👋
 
 ### Python & Django Developer  BSC Computer Science Student
-
 I am a passionate Python and Django Developer with a strong interest in Backend Development, REST APIs, Database Management, and Web Application Development. I enjoy building real-world projects that solve practical problems and help me continuously improve my software development skills.
 
 Currently pursuing my Master's in Computer Applications and focusing on Python, Django, Django REST Framework, MySQL, and Data Structures & Algorithms.
