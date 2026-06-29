@@ -11,7 +11,7 @@ Currently pursuing my Master's in Computer Applications and focusing on Python, 
 
 * 🎓 BSC  Computer Science Student
 * 💻 Python & Django Developer
-* 🌱 Currently learning Django REST Framework and Advanced Backend Development
+* 🌱 Currently learning Django  and Advanced Backend Development and API Development
 * 🗄️ Strong understanding of MySQL and Database Design
 * 🔧 Experience building CRUD Applications and REST APIs
 * 🎯 Goal: Become a Professional Python Backend Developer
