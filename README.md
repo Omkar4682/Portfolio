@@ -38,7 +38,7 @@ Currently pursuing my Master's in Computer Applications and focusing on Python, 
 ### Database
 
 * MySQL
-
+*MongoDB
 ### Tools & Platforms
 
 * Git
