@@ -14,8 +14,8 @@ Currently pursuing my Master's in Computer Applications and focusing on Python, 
 * 🌱 Currently learning Django  and Advanced Backend Development and API Development
 * 🗄️ Strong understanding of MySQL and Database Design
 * 🔧 Experience building CRUD Applications and REST APIs
-* 🎯 Goal: Become a Professional Python Backend Developer
-
+* 🎯 Goal: Become a Professional Python Full Stack Developer and growing knowledge in AI  and ML
+  
 ---
 
 ## 🛠️ Technical Skills
