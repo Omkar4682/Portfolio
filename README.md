@@ -34,6 +34,7 @@ Currently pursuing my Master's in Computer Applications and focusing on Python, 
 * JavaScript
 * Django
 * Django REST Framework
+* Flask
 
 ### Database
 
@@ -55,6 +56,7 @@ Currently pursuing my Master's in Computer Applications and focusing on Python, 
 * Database Management Systems (DBMS)
 * CRUD Operations
 * Authentication & Authorization
+* Fast API
 
 ---
 
