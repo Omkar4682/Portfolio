@@ -54,7 +54,7 @@ Currently pursuing my Master's in Computer Applications and focusing on Python, 
 * Object-Oriented Programming (OOP)
 * Data Structures & Algorithms
 * REST APIs
-* Database Management Systems (DBMS)
+* Relational Database Management Systems (DBMS)
 * CRUD Operations
 * Authentication & Authorization
 * Fast API
